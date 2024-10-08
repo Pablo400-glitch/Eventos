@@ -263,7 +263,7 @@ Posteriormente añado los dos objetos, el objeto A es un cilindro Azul y el obje
 
 ![alt text](resources/3.png)
 
-*Figura 3: UI*
+*Figura 4: Objeto A y Objeto B en la escena*
 
 En los scripts de ```Notificator``` y ```Subscription``` hago una serie de cambios para poder notificar los eventos del movimiento de los objetos de forma correcta.
 
