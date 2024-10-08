@@ -26,8 +26,6 @@ En esta primera subtarea cree el canvas y añadí los dos botones que permiten c
 
 *Figura 1: Evento de UI pulsando el botón normal*
 
-> Añadir gif 1
-
 En está primera subtarea cree el script de ```PlayerMovement```, por defecto se ve de la siguiente manera y en próximas subtareas lo estaré editando.
 
 ```cs
@@ -50,6 +48,8 @@ En está primera subtarea cree el script de ```PlayerMovement```, por defecto se
         }
     }
 ```
+
+![alt text](resources/1.gif)
 
 ### Subtarea 2
 
@@ -112,8 +112,6 @@ Para poder notificar a la interfaz de este suceso, he creado los scripts de ```N
 
 En esta tercera subtarea añadí una esfera de color rojo a la escena y si el jugador toca este esfera se muestra la cantidad de objetos recolectados y se reduce la velocidad del jugador.
 
-> Añadir gif 1.2
-
 He tenido que modificar el script de ```Notificator``` y ```PlayerMovement``` para que el juego tenga el comportamiento descrito.
 
 ```cs
@@ -153,6 +151,8 @@ He tenido que modificar el script de ```Notificator``` y ```PlayerMovement``` pa
         }
     }
 ```
+
+![alt text](resources/1.2.gif)
 
 ## Actividad 2
 
@@ -198,6 +198,8 @@ Para activar dicho movimiento he añadido una serie de cambios al script de ```P
         }
     }
 ```
+
+![alt text](resources/2.gif)
 
 ## Actividad 3
 
@@ -318,4 +320,4 @@ En los scripts de ```Notificator``` y ```Subscription``` hago una serie de cambi
 
 Para finalizar, hay que mencionar que para mover al **object_A** se le añade el script de ```MoveToPlayer```. Este script es muy similar al de ```PlayerMovement```, pero sin las funciones que configuran la velocidad del jugador.
 
-> Añadir el gif 3
+![alt text](resources/3.gif)
