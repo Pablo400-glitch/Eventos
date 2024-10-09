@@ -261,7 +261,7 @@ Antes de empezar con está actividad he cambiado los scripts relacionados con lo
     }
 ```
 
-Posteriormente añado los dos objetos, el objeto A es un cilindro Azul y el objeto B es una esfera azul.
+Posteriormente añado los dos objetos, el objeto A es un cilindro Azul y el objeto B es una esfera amarilla.
 
 ![alt text](resources/3.png)
 
